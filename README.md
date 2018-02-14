@@ -19,3 +19,4 @@ print('mylist is', mylist)<br>
 
 2.
 python 2.7版本需要用raw_input代替input，若仍使用input，则输入的字符串需要加引号，否则会当成变量
+	若f(n) = O(n^(〖log〗_b a-ε))，ε>0，那么T(n) = θ(n^(〖log〗_b a))
